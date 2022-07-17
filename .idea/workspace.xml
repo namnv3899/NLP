@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fb92981-a2e3-4b39-9e8a-fb5d513fe92b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ArticleClassification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleClassification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phobert/dataloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/phobert/dataloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phobert/embeding.py" beforeDir="false" afterPath="$PROJECT_DIR$/phobert/embeding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phobert/train_classifer_keras.py" beforeDir="false" afterPath="$PROJECT_DIR$/phobert/train_classifer_keras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23o9zKWKAeVu5z5Txnwy2Xns4FN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fb92981-a2e3-4b39-9e8a-fb5d513fe92b" name="Changes" comment="" />
+      <created>1642389838181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642389838181</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+regex
+PyYAML
+pandas
+SQLAlchemy
+sklearn
+scikit-learn
+Scrapy
+itemloaders
+w3lib
+itemadapter
+vncorenlp
+transformers
